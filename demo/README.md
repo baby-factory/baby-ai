@@ -1,2 +1,2 @@
-# bady-ai
-A baby artificial intelligence
+这里放置应用实例
+应用实例运行说明
